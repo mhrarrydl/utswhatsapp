@@ -40,6 +40,7 @@ dependencies:
   firebase_core:
   image_picker:
   firebase_storage:
+  bloc:
 //  firebase_cloud_firestore:
 dev_dependencies:
   flutter_test:
