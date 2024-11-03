@@ -68,9 +68,9 @@ class Chat {
 // Chat List Screen
 class ChatListScreen extends StatelessWidget {
   final List<Chat> chats = [
-    Chat(name: 'Alice', message: 'Hey! How are you?', time: '10:30 AM'),
-    Chat(name: 'Bob', message: 'Let\'s meet up!', time: '9:15 AM'),
-    Chat(name: 'Charlie', message: 'See you later!', time: 'Yesterday'),
+    Chat(name: 'Mahir', message: 'Woi Kapan Bayar Utang?', time: '12:30 AM'),
+    Chat(name: 'Abil', message: 'Nok ndi bro?', time: '10:15 AM'),
+    Chat(name: 'Bintang', message: 'Suwun', time: 'Yesterday'),
   ];
 
   @override
